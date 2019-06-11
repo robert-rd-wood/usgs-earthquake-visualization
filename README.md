@@ -1,4 +1,4 @@
-# USGS Earthquack Visualization
+# USGS Earthquake Visualization
 USGS Earthquake Visualization - Leaflet.js Map and Layers
 
 **Description**  
