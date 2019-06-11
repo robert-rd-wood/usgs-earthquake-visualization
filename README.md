@@ -6,4 +6,4 @@ HTML page containing a map and layers generated using Leaflet.js and GeoJSON. Se
 
 ---
 
-![alt text](screenshots/map.png "Map Controls")
+![alt text](screenshots/map.gif "Map Controls")
